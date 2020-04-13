@@ -17,7 +17,8 @@ export default {
     return{
         tarefas:[
         {descricao:"Matemática"},
-        {descricao:"Biologia"}
+        {descricao:"Biologia"},
+        {descricao:"Geografia"},
       ]
     }
   },

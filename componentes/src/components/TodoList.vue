@@ -26,11 +26,16 @@ export default {
     }
 
     .tarefas{
-        width: 90px;
+        width: tarefas;
+        padding: 10px;
+        font-size: 11px;
+        line-height: 3px;
+        word-wrap: break-word;
+        flex-wrap: wrap;
         background-color: black;
         height: 50px;
         border: 1px solid white;
-        margin: 5px 20px 0 20px;
+        margin: 2px 20px 0 20px;
         text-align: center;
         line-height: 50px;
         cursor: pointer;
